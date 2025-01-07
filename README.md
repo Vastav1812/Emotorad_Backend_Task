@@ -74,3 +74,235 @@ This project implements a backend service for managing and reconciling customer 
 ```bash
 git clone https://github.com/Vastav1812/Emotorad_Backend_Task.git
 cd Emotorad_Backend_Task
+```
+
+### **3. Install Dependencies**
+```bash
+Copy code
+npm install
+```
+### **4. Configure Environment Variables**
+Create a .env file in the root directory:
+```makefile
+Copy code
+DATABASE_URL="postgresql://<username>:<password>@localhost:5432/identity_db"
+NODE_ENV=development
+PORT=3000
+LOG_LEVEL=debug
+RATE_LIMIT_WINDOW=900000
+RATE_LIMIT_MAX_REQUESTS=100
+Replace <username> and <password> with your PostgreSQL credentials.
+```
+### **5. Run Migrations and Seed Database**
+```bash
+Copy code
+npx prisma migrate dev
+npx prisma db seed
+```
+### **6. Start the Application**
+```bash
+Copy code
+npm run dev
+```
+
+### **1. New Data with No Matches**
+Send a request where neither the email nor the phoneNumber matches any existing record.
+cURL Command:
+```bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "newuser@example.com"
+,
+"phoneNumber": "1234567890"}'
+```
+Expected Response:
+```json
+Copy code
+{
+"primaryContactId": 1,
+"emails": ["newuser@example.com"],
+"phoneNumbers": ["1234567890"],
+"secondaryContactIds": []
+}
+```
+
+### **2. Matching email but New phoneNumber**
+Send a request where the email matches an existing contact, but the phoneNumber is new.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "newuser@example.com"
+,
+"phoneNumber": "9876543210"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 1,
+"emails": ["newuser@example.com"],
+"phoneNumbers": ["1234567890"
+,
+"secondaryContactIds": [2]
+"9876543210"],
+}
+3. Matching phoneNumber but New email
+Send a request where the phoneNumber matches an existing contact, but the email is new.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "anotheruser@example.com"
+,
+"phoneNumber": "1234567890"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 1,
+"emails": ["newuser@example.com"
+"phoneNumbers": ["1234567890"
+,
+"secondaryContactIds": [2, 3]
+,
+"anotheruser@example.com"],
+"9876543210"],
+}
+4. Overlapping Data
+Send a request where the email matches one primary contact and the phoneNumber matches
+another.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "newuser@example.com"
+,
+"phoneNumber": "1111111111"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 1,
+"emails": ["newuser@example.com"
+"phoneNumbers": ["1234567890"
+,
+"secondaryContactIds": [2, 3, 4]
+,
+"anotheruser@example.com"],
+"9876543210"
+,
+"1111111111"],
+}
+5. Duplicate Request
+Send a duplicate request with the same email and phoneNumber.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "newuser@example.com"
+,
+"phoneNumber": "1234567890"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 1,
+"emails": ["newuser@example.com"
+"phoneNumbers": ["1234567890"
+,
+"secondaryContactIds": [2, 3, 4]
+,
+"anotheruser@example.com"],
+"9876543210"
+,
+"1111111111"],
+}
+6. New Completely Unrelated Data
+Send a request where both the email and phoneNumber do not match any existing record.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "newcontact@example.com"
+,
+"phoneNumber": "2222222222"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 5,
+"emails": ["newcontact@example.com"],
+"phoneNumbers": ["2222222222"],
+"secondaryContactIds": []
+}
+7. Empty Payload
+Send a request with an empty payload to ensure proper validation.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{}'
+Expected Response:
+json
+Copy code
+{
+"status": "fail"
+,
+"message": "Either email or phoneNumber must be provided"
+}
+8. Invalid Payload
+Send a request with invalid data types for email and phoneNumber.
+cURL Command:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": 12345,
+"phoneNumber": false}'
+Expected Response:
+json
+Copy code
+{
+"status": "fail"
+,
+"message": "Expected string, received number"
+}
+9. Partially Empty Data
+Send a request with only email or phoneNumber to verify it handles partial data.
+Email Only:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"email": "partialuser@example.com"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 6,
+"emails": ["partialuser@example.com"],
+"phoneNumbers": [],
+"secondaryContactIds": []
+}
+Phone Only:
+bash
+Copy code
+curl -X POST http://localhost:3000/api/contacts/identify \
+-H "Content-Type: application/json" \
+-d '{"phoneNumber": "3333333333"}'
+Expected Response:
+json
+Copy code
+{
+"primaryContactId": 7,
+"emails": [],
+"phoneNumbers": ["3333333333"],
+"secondaryContactIds": []
+}
