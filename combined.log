@@ -1,0 +1,532 @@
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:01:53.117Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:01:53.120Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:01:53.122Z"}
+{"email":"test@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T18:03:22.400Z"}
+{"email":"abcd@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T18:04:10.676Z"}
+{"email":"abcd@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T18:04:14.925Z"}
+{"email":"abcd123@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T18:04:23.366Z"}
+{"email":"abcd123@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T18:04:31.410Z"}
+{"email":"abcd123@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:04:42.504Z"}
+{"email":"abcd123@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:26:46.676Z"}
+{"email":"abcd123@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:26:49.404Z"}
+{"email":"abcd12@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:26:54.300Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:35:31.494Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:37:46.648Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:42:41.363Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:42:41.366Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:42:41.369Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878034432","timestamp":"2025-01-06T18:42:47.769Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:43:00.201Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:44:39.056Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:44:40.854Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:44:41.930Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:44:54.232Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:44:54.235Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:44:54.237Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:45:03.090Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:47:01.007Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:47:01.010Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:47:01.014Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:48:38.740Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:48:38.744Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:48:38.747Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:48:54.573Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:48:54.576Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:48:54.578Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:51:35.778Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:51:35.781Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:51:35.785Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T18:56:52.331Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T18:56:52.335Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T18:56:52.338Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:56:59.318Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T18:56:59.431Z"}
+{"existingCount":1,"inputEmail":"vastav@example.com","inputPhone":"9878035355","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T18:56:59.436Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T18:56:59.439Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T18:56:59.439Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T18:57:34.807Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T18:57:34.812Z"}
+{"existingCount":1,"inputEmail":"vastav@example.com","inputPhone":"9878035355","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T18:57:34.814Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T18:57:34.815Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T18:57:34.816Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:00:39.493Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:00:39.497Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:00:39.499Z"}
+{"email":"vastav@example.com","level":"info","message":"Processing identify request","phoneNumber":"9878035355","timestamp":"2025-01-06T19:00:43.775Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:00:43.873Z"}
+{"existingCount":1,"inputEmail":"vastav@example.com","inputPhone":"9878035355","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:00:43.878Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T19:00:43.881Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T19:00:43.881Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:01:12.867Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:01:12.870Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:01:12.872Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:02:50.784Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:02:50.837Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:02:50.839Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:02:50.840Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:02:50.841Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:03:29.470Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:03:29.473Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"9876543210","timestamp":"2025-01-06T19:03:29.474Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-06T19:03:29.484Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:04:10.136Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:04:10.139Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:04:10.139Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:04:10.140Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:04:10.140Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-06T19:04:26.584Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:04:26.585Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1111111111","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:04:26.586Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":4,"secondaryCount":0,"timestamp":"2025-01-06T19:04:26.587Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-06T19:04:26.587Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:04:41.617Z"}
+{"count":2,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:04:41.620Z"}
+{"existingCount":2,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:04:41.620Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":1,"secondaryCount":1,"timestamp":"2025-01-06T19:04:41.629Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":1,"timestamp":"2025-01-06T19:04:41.630Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"2222222222","timestamp":"2025-01-06T19:04:51.226Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:04:51.227Z"}
+{"email":"newcontact@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"2222222222","timestamp":"2025-01-06T19:04:51.227Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:04:51.229Z"}
+{"email":"partialuser@example.com","level":"info","message":"Processing identify request","timestamp":"2025-01-06T19:05:13.412Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:05:13.416Z"}
+{"email":"partialuser@example.com","level":"debug","message":"Creating new primary contact","timestamp":"2025-01-06T19:05:13.416Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:05:13.418Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"3333333333","timestamp":"2025-01-06T19:05:22.776Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:05:22.778Z"}
+{"level":"debug","message":"Creating new primary contact","phoneNumber":"3333333333","timestamp":"2025-01-06T19:05:22.778Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:05:22.780Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:11:57.035Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:11:57.214Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:11:57.214Z"}
+{"error":{"clientVersion":"6.1.0","name":"PrismaClientUnknownRequestError"},"input":{"email":"newuser@example.com","phoneNumber":"1234567890"},"level":"error","message":"Fatal error in processIdentity","timestamp":"2025-01-06T19:11:57.227Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:13:18.295Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:13:18.300Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:13:18.300Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:18.307Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:13:28.033Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:13:28.035Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:13:28.041Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:28.046Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:28.046Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:13:36.957Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:13:36.959Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:13:36.959Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:36.960Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:36.960Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-06T19:13:47.100Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:13:47.102Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1111111111","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:13:47.102Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:47.104Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:13:47.105Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:14:24.580Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:14:24.582Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:14:24.583Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:14:24.583Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-06T19:14:24.584Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"2222222222","timestamp":"2025-01-06T19:14:36.360Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:14:36.361Z"}
+{"email":"newcontact@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"2222222222","timestamp":"2025-01-06T19:14:36.361Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":2,"secondaryCount":0,"timestamp":"2025-01-06T19:14:36.362Z"}
+{"email":"partialuser@example.com","level":"info","message":"Processing identify request","timestamp":"2025-01-06T19:15:13.904Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:15:13.907Z"}
+{"email":"partialuser@example.com","level":"debug","message":"Creating new primary contact","timestamp":"2025-01-06T19:15:13.907Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":3,"secondaryCount":0,"timestamp":"2025-01-06T19:15:13.909Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"3333333333","timestamp":"2025-01-06T19:15:21.035Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:15:21.037Z"}
+{"level":"debug","message":"Creating new primary contact","phoneNumber":"3333333333","timestamp":"2025-01-06T19:15:21.037Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-06T19:15:21.039Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:19:45.711Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:19:45.838Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:19:45.838Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:19:45.844Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:19:53.495Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:19:53.496Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:19:53.501Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:19:53.504Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:19:53.504Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:20:25.053Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:20:25.059Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:20:25.061Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:20:36.539Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:20:36.585Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:20:36.587Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:20:36.589Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-06T19:20:36.590Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:20:53.931Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:20:53.933Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:20:53.934Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:20:53.938Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:21:01.954Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:21:01.956Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:21:01.956Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:01.957Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:01.957Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:21:03.985Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:21:03.987Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:21:03.987Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:03.988Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:03.989Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:21:06.777Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:21:06.778Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:21:06.779Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:06.780Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:06.781Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:21:14.940Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:21:14.943Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:21:14.943Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:14.944Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:14.945Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:21:25.136Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:21:25.137Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:21:25.137Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:25.138Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-06T19:21:25.139Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:27:52.676Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:27:52.722Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:27:52.723Z"}
+{"error":{"clientVersion":"6.1.0","code":"P2032","meta":{"expected_type":"String","field":"linkPrecedence","found":"primary","modelName":"Contact"},"name":"PrismaClientKnownRequestError"},"input":{"email":"newuser@example.com","phoneNumber":"1234567890"},"level":"error","message":"Fatal error in processIdentity","timestamp":"2025-01-06T19:27:52.732Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:34:48.725Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:34:48.730Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:34:48.732Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:34:53.167Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:34:53.205Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:34:53.206Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:34:53.207Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:34:53.208Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:35:26.365Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:35:26.370Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:35:26.371Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:35:26.372Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:35:26.373Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:36:43.565Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:36:43.568Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:36:43.568Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:43.569Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:43.570Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-06T19:36:52.885Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:36:52.887Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1111111111","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:36:52.888Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:52.889Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:52.889Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:36:59.800Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:36:59.803Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:36:59.803Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:59.804Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-06T19:36:59.805Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:41:40.061Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:41:40.065Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:41:40.066Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:42:14.858Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:42:14.937Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:42:14.938Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:14.946Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:42:23.289Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:42:23.291Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:42:23.298Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:23.300Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:23.301Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:42:28.390Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:42:28.392Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:42:28.393Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:28.394Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:28.394Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:42:39.187Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:42:39.189Z"}
+{"existingCount":1,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:42:39.189Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:39.190Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":0,"timestamp":"2025-01-06T19:42:39.190Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-06T19:51:55.590Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-06T19:51:55.596Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-06T19:51:55.599Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-06T19:53:16.263Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:53:16.303Z"}
+{"email":"newuser@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-06T19:53:16.304Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":9,"secondaryCount":0,"timestamp":"2025-01-06T19:53:16.308Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-06T19:53:24.717Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-06T19:53:24.719Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"9876543210","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-06T19:53:24.721Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":9,"secondaryCount":0,"timestamp":"2025-01-06T19:53:24.721Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":9,"secondaryCount":0,"timestamp":"2025-01-06T19:53:24.722Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:35:57.708Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:35:57.711Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:35:57.714Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:37:59.272Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:37:59.275Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:37:59.277Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:38:06.835Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-07T07:38:06.933Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-07T07:38:12.948Z"}
+{"clientVersion":"6.1.0","code":"P2002","level":"error","message":"Unhandled error: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:55\n\n  63 if ((email && !existingContacts.some((c) => c.email === email)) ||\n  64     (phoneNumber &&\n  65         !existingContacts.some((c) => c.phoneNumber === phoneNumber))) {\n→ 66     const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)","meta":{"modelName":"Contact","target":["email"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:55\n\n  63 if ((email && !existingContacts.some((c) => c.email === email)) ||\n  64     (phoneNumber &&\n  65         !existingContacts.some((c) => c.phoneNumber === phoneNumber))) {\n→ 66     const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)\n    at qn.handleRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:7315)\n    at qn.handleAndLogRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6640)\n    at qn.request (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6347)\n    at async l (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:9616)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:38\n    at async Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7983)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T07:38:12.970Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:38:23.334Z"}
+{"clientVersion":"6.1.0","code":"P2002","level":"error","message":"Unhandled error: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:55\n\n  63 if ((email && !existingContacts.some((c) => c.email === email)) ||\n  64     (phoneNumber &&\n  65         !existingContacts.some((c) => c.phoneNumber === phoneNumber))) {\n→ 66     const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`phoneNumber`)","meta":{"modelName":"Contact","target":["phoneNumber"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:55\n\n  63 if ((email && !existingContacts.some((c) => c.email === email)) ||\n  64     (phoneNumber &&\n  65         !existingContacts.some((c) => c.phoneNumber === phoneNumber))) {\n→ 66     const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`phoneNumber`)\n    at qn.handleRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:7315)\n    at qn.handleAndLogRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6640)\n    at qn.request (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6347)\n    at async l (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:9616)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:66:38\n    at async Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7983)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T07:38:23.341Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:39:58.470Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:39:58.473Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:40:07.674Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:40:07.677Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:40:07.678Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:44:10.237Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-07T07:44:10.376Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-07T07:44:23.797Z"}
+{"clientVersion":"6.1.0","code":"P2002","level":"error","message":"Unhandled error: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:47\n\n  91   (phoneNumber &&\n  92     !existingContacts.some((c) => c.phoneNumber === phoneNumber))\n  93 ) {\n→ 94   const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)","meta":{"modelName":"Contact","target":["email"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:47\n\n  91   (phoneNumber &&\n  92     !existingContacts.some((c) => c.phoneNumber === phoneNumber))\n  93 ) {\n→ 94   const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)\n    at qn.handleRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:7315)\n    at qn.handleAndLogRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6640)\n    at qn.request (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6347)\n    at l (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:9616)\n    at /Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:30\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7983)\n    at ContactService.processIdentity (/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:54:12)\n    at /Users/vastav/Downloads/identity-system/src/api/contact/contact-controller.ts:20:20","timestamp":"2025-01-07T07:44:23.836Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-07T07:44:56.023Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":48,"secondaryCount":0,"timestamp":"2025-01-07T07:44:56.063Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-07T07:44:59.217Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":48,"secondaryCount":0,"timestamp":"2025-01-07T07:44:59.221Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:45:24.091Z"}
+{"clientVersion":"6.1.0","code":"P2002","level":"error","message":"Unhandled error: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:47\n\n  91   (phoneNumber &&\n  92     !existingContacts.some((c) => c.phoneNumber === phoneNumber))\n  93 ) {\n→ 94   const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)","meta":{"modelName":"Contact","target":["email"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `tx.contact.create()` invocation in\n/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:47\n\n  91   (phoneNumber &&\n  92     !existingContacts.some((c) => c.phoneNumber === phoneNumber))\n  93 ) {\n→ 94   const newSecondary = await tx.contact.create(\nUnique constraint failed on the fields: (`email`)\n    at qn.handleRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:7315)\n    at qn.handleAndLogRequestError (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6640)\n    at qn.request (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:121:6347)\n    at l (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:9616)\n    at /Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:94:30\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7983)\n    at ContactService.processIdentity (/Users/vastav/Downloads/identity-system/src/api/contact/contact-service.ts:54:12)\n    at /Users/vastav/Downloads/identity-system/src/api/contact/contact-controller.ts:20:20","timestamp":"2025-01-07T07:45:24.100Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:47:04.979Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:47:04.982Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:47:04.984Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:47:21.509Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:47:21.512Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:47:21.513Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:47:31.339Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:47:31.343Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:47:31.344Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:50:04.553Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:50:04.573Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:50:04.576Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:50:09.354Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T07:50:09.431Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T07:50:09.437Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":48,"secondaryCount":0,"timestamp":"2025-01-07T07:50:09.441Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":48,"secondaryCount":0,"timestamp":"2025-01-07T07:50:09.441Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:50:25.247Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T07:50:25.250Z"}
+{"email":"1user@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-07T07:50:25.250Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":50,"secondaryCount":0,"timestamp":"2025-01-07T07:50:25.259Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:51:01.695Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T07:51:01.700Z"}
+{"email":"1user@example.com","level":"debug","message":"Creating new primary contact","phoneNumber":"1234567890","timestamp":"2025-01-07T07:51:01.701Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-07T07:51:01.703Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:51:08.720Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T07:51:08.721Z"}
+{"existingCount":1,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T07:51:08.722Z"}
+{"emailCount":2,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":0,"timestamp":"2025-01-07T07:51:08.724Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":0,"timestamp":"2025-01-07T07:51:08.724Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:52:53.826Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:52:53.833Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:52:53.836Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:53:02.632Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:53:02.636Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:53:02.637Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:53:07.818Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":1,"timestamp":"2025-01-07T07:53:07.856Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:53:37.321Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":1,"timestamp":"2025-01-07T07:53:37.323Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:53:50.771Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T07:53:50.776Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T07:53:58.839Z"}
+{"level":"error","message":"Unhandled error: Reduce of empty array with no initial value","stack":"TypeError: Reduce of empty array with no initial value\n    at Array.reduce (<anonymous>)\n    at /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:37:51\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7989)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T07:53:58.843Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:54:12.918Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T07:54:12.920Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"2222222222","timestamp":"2025-01-07T07:54:25.921Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":0,"timestamp":"2025-01-07T07:54:25.925Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T07:56:08.691Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T07:56:08.695Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T07:56:08.696Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T07:56:19.445Z"}
+{"level":"error","message":"Unhandled error: Reduce of empty array with no initial value","stack":"TypeError: Reduce of empty array with no initial value\n    at Array.reduce (<anonymous>)\n    at /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:37:51\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7989)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T07:56:19.489Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T07:56:32.272Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T07:56:32.274Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:00:34.262Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:00:34.265Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:00:34.267Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T08:00:44.176Z"}
+{"level":"error","message":"Unhandled error: Reduce of empty array with no initial value","stack":"TypeError: Reduce of empty array with no initial value\n    at Array.reduce (<anonymous>)\n    at /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:37:51\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7989)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T08:00:44.252Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:00:50.620Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:00:50.623Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:02:41.951Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:02:41.954Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:02:41.956Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:02:45.700Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:02:45.771Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T08:02:51.698Z"}
+{"level":"error","message":"Unhandled error: Reduce of empty array with no initial value","stack":"TypeError: Reduce of empty array with no initial value\n    at Array.reduce (<anonymous>)\n    at /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:37:51\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7989)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T08:02:51.702Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:05:08.867Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:05:08.870Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:05:08.872Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"2222222222","timestamp":"2025-01-07T08:11:11.868Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":1,"timestamp":"2025-01-07T08:11:12.029Z"}
+{"email":"testuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"3333333333","timestamp":"2025-01-07T08:11:18.651Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-07T08:11:18.665Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:11:48.781Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:11:48.784Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"3333333333","timestamp":"2025-01-07T08:11:56.870Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":1,"timestamp":"2025-01-07T08:11:56.882Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"2222222222","timestamp":"2025-01-07T08:12:08.019Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":1,"timestamp":"2025-01-07T08:12:08.021Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:36:46.669Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:36:46.669Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:36:46.676Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:36:46.692Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:36:46.693Z"}
+{"email":"newuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:36:46.694Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:36:46.794Z"}
+{"existingCount":3,"inputEmail":"newuser@test.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:36:46.800Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:09:46.427Z"},{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:09:46.427Z"},{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:09:46.427Z"}],"timestamp":"2025-01-07T08:36:46.804Z"}
+{"emailCount":4,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:36:46.812Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:36:46.814Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:36:46.828Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:36:46.830Z"}
+{"existingCount":3,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:36:46.830Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:09:46.427Z"},{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:36:46.806Z"},{"createdAt":"2025-01-07T08:09:46.427Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:36:46.812Z"}],"timestamp":"2025-01-07T08:36:46.831Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:36:46.833Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:36:46.833Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:41:26.643Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:41:26.643Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:41:26.651Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:41:26.665Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:41:26.666Z"}
+{"email":"newuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:41:26.667Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:41:26.712Z"}
+{"existingCount":3,"inputEmail":"newuser@test.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:41:26.715Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"}],"timestamp":"2025-01-07T08:41:26.719Z"}
+{"emailCount":4,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.723Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.724Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:41:26.736Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:41:26.737Z"}
+{"existingCount":3,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:41:26.738Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.721Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.723Z"}],"timestamp":"2025-01-07T08:41:26.739Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.741Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.742Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:41:26.744Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:41:26.746Z"}
+{"existingCount":3,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:41:26.746Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.740Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.741Z"}],"timestamp":"2025-01-07T08:41:26.748Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.749Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.750Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T08:41:26.752Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:41:26.754Z"}
+{"level":"debug","message":"Creating new primary contact","phoneNumber":"1111111111","timestamp":"2025-01-07T08:41:26.754Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":0,"timestamp":"2025-01-07T08:41:26.756Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:41:26.762Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:41:26.763Z"}
+{"existingCount":3,"inputEmail":"newuser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:41:26.763Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.749Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.749Z"}],"timestamp":"2025-01-07T08:41:26.764Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.766Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:41:26.766Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:42:43.236Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:42:43.237Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:42:43.245Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:42:43.261Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:42:43.263Z"}
+{"email":"newuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:42:43.262Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:42:43.307Z"}
+{"existingCount":3,"inputEmail":"newuser@test.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:42:43.317Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.765Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:41:26.766Z"}],"timestamp":"2025-01-07T08:42:43.320Z"}
+{"emailCount":4,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.324Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.325Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:42:43.337Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:42:43.338Z"}
+{"existingCount":3,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:42:43.339Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.322Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.324Z"}],"timestamp":"2025-01-07T08:42:43.340Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.342Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.343Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:42:43.345Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:42:43.346Z"}
+{"existingCount":3,"inputEmail":"anotheruser@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:42:43.347Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:38:07.521Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.341Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.342Z"}],"timestamp":"2025-01-07T08:42:43.348Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.350Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:42:43.350Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:46:44.835Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:46:44.835Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:46:44.842Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:46:44.856Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:46:44.857Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:46:44.858Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:46:44.906Z"}
+{"existingCount":3,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:46:44.911Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.349Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:42:43.350Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:43:10.780Z"}],"timestamp":"2025-01-07T08:46:44.915Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:46:44.920Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":1,"secondaryCount":2,"timestamp":"2025-01-07T08:46:44.921Z"}
+{"email":"uniqueuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"9999999999","timestamp":"2025-01-07T08:46:44.928Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:46:44.931Z"}
+{"email":"uniqueuser@test.com","level":"debug","message":"Creating new primary contact","phoneNumber":"9999999999","timestamp":"2025-01-07T08:46:44.932Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-07T08:46:44.934Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:46:44.936Z"}
+{"count":4,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:46:44.937Z"}
+{"existingCount":4,"inputEmail":"newcontact@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:46:44.938Z"}
+{"count":4,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"primary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:43:10.780Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newcontact@example.com","id":4,"linkPrecedence":"primary","linkedId":1,"phoneNumber":"2222222222","updatedAt":"2025-01-07T08:43:10.780Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:46:44.916Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":1,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:46:44.919Z"}],"timestamp":"2025-01-07T08:46:44.939Z"}
+{"emailCount":4,"level":"debug","message":"Contact reconciliation complete","phoneCount":2,"primaryId":4,"secondaryCount":3,"timestamp":"2025-01-07T08:46:44.941Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":4,"secondaryCount":3,"timestamp":"2025-01-07T08:46:44.942Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"11111111111","timestamp":"2025-01-07T08:46:44.948Z"}
+{"count":0,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:46:44.949Z"}
+{"level":"debug","message":"Creating new primary contact","phoneNumber":"11111111111","timestamp":"2025-01-07T08:46:44.950Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-07T08:46:44.951Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:47:57.427Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:47:57.427Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:47:57.435Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:47:57.448Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:47:57.450Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:47:57.450Z"}
+{"count":3,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:47:57.498Z"}
+{"existingCount":3,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:47:57.503Z"}
+{"count":3,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"secondary","linkedId":4,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:46:44.940Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":4,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:46:44.941Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":4,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:46:44.941Z"}],"timestamp":"2025-01-07T08:47:57.507Z"}
+{"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"warn","message":"No primary contact found. Creating a new primary contact.","timestamp":"2025-01-07T08:47:57.508Z"}
+{"level":"debug","message":"New primary contact created","primaryContactId":8,"timestamp":"2025-01-07T08:47:57.511Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:47:57.516Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:47:57.517Z"}
+{"email":"uniqueuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"9999999999","timestamp":"2025-01-07T08:47:57.527Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:47:57.529Z"}
+{"existingCount":1,"inputEmail":"uniqueuser@test.com","inputPhone":"9999999999","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:47:57.529Z"}
+{"count":1,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:46:44.933Z","deletedAt":null,"email":"uniqueuser@test.com","id":6,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"9999999999","updatedAt":"2025-01-07T08:46:44.933Z"}],"timestamp":"2025-01-07T08:47:57.531Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-07T08:47:57.531Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-07T08:47:57.533Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:47:57.536Z"}
+{"count":5,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:47:57.538Z"}
+{"existingCount":5,"inputEmail":"newcontact@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:47:57.538Z"}
+{"count":5,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newcontact@example.com","id":4,"linkPrecedence":"primary","linkedId":1,"phoneNumber":"2222222222","updatedAt":"2025-01-07T08:43:10.780Z"},{"createdAt":"2025-01-07T08:47:57.509Z","deletedAt":null,"email":"1user@example.com","id":8,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.509Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.512Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.516Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.516Z"}],"timestamp":"2025-01-07T08:47:57.540Z"}
+{"error":{"clientVersion":"6.1.0","code":"P2002","meta":{"modelName":"Contact","target":["email","phoneNumber","linkedId"]},"name":"PrismaClientKnownRequestError"},"input":{"email":"newcontact@example.com","phoneNumber":"1234567890"},"level":"error","message":"Fatal error in processIdentity","timestamp":"2025-01-07T08:47:57.550Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"11111111111","timestamp":"2025-01-07T08:47:57.553Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:47:57.554Z"}
+{"existingCount":1,"inputPhone":"11111111111","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:47:57.554Z"}
+{"count":1,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:46:44.951Z","deletedAt":null,"email":null,"id":7,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"11111111111","updatedAt":"2025-01-07T08:46:44.951Z"}],"timestamp":"2025-01-07T08:47:57.555Z"}
+{"emailCount":0,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-07T08:47:57.556Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-07T08:47:57.556Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:48:45.398Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:48:45.398Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:48:45.406Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:48:45.420Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:48:45.421Z"}
+{"email":"1user@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:48:45.422Z"}
+{"count":4,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:48:45.463Z"}
+{"existingCount":4,"inputEmail":"1user@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:48:45.466Z"}
+{"count":4,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:47:57.509Z","deletedAt":null,"email":"1user@example.com","id":8,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.509Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.512Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.516Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.516Z"}],"timestamp":"2025-01-07T08:48:45.470Z"}
+{"emailCount":3,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:48:45.475Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:48:45.476Z"}
+{"email":"uniqueuser@test.com","level":"info","message":"Processing identify request","phoneNumber":"9999999999","timestamp":"2025-01-07T08:48:45.488Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:48:45.489Z"}
+{"existingCount":1,"inputEmail":"uniqueuser@test.com","inputPhone":"9999999999","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:48:45.490Z"}
+{"count":1,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:46:44.933Z","deletedAt":null,"email":"uniqueuser@test.com","id":6,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"9999999999","updatedAt":"2025-01-07T08:46:44.933Z"}],"timestamp":"2025-01-07T08:48:45.491Z"}
+{"emailCount":1,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":6,"secondaryCount":0,"timestamp":"2025-01-07T08:48:45.491Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":6,"secondaryCount":0,"timestamp":"2025-01-07T08:48:45.492Z"}
+{"email":"newcontact@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:48:45.494Z"}
+{"count":5,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:48:45.495Z"}
+{"existingCount":5,"inputEmail":"newcontact@example.com","inputPhone":"1234567890","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:48:45.496Z"}
+{"count":5,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newcontact@example.com","id":4,"linkPrecedence":"primary","linkedId":1,"phoneNumber":"2222222222","updatedAt":"2025-01-07T08:43:10.780Z"},{"createdAt":"2025-01-07T08:47:57.509Z","deletedAt":null,"email":"1user@example.com","id":8,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:47:57.509Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"1user@example.com","id":1,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:48:45.472Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"newuser@example.com","id":2,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:48:45.474Z"},{"createdAt":"2025-01-07T08:38:07.521Z","deletedAt":null,"email":"anotheruser@example.com","id":3,"linkPrecedence":"secondary","linkedId":8,"phoneNumber":"1234567890","updatedAt":"2025-01-07T08:48:45.475Z"}],"timestamp":"2025-01-07T08:48:45.497Z"}
+{"error":{"clientVersion":"6.1.0","code":"P2002","meta":{"modelName":"Contact","target":["email","phoneNumber","linkedId"]},"name":"PrismaClientKnownRequestError"},"input":{"email":"newcontact@example.com","phoneNumber":"1234567890"},"level":"error","message":"Fatal error in processIdentity","timestamp":"2025-01-07T08:48:45.505Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"11111111111","timestamp":"2025-01-07T08:48:45.508Z"}
+{"count":1,"level":"debug","message":"Found existing contacts","timestamp":"2025-01-07T08:48:45.510Z"}
+{"existingCount":1,"inputPhone":"11111111111","level":"debug","message":"Starting contact reconciliation","timestamp":"2025-01-07T08:48:45.511Z"}
+{"count":1,"level":"debug","message":"Related contacts found","relatedContacts":[{"createdAt":"2025-01-07T08:46:44.951Z","deletedAt":null,"email":null,"id":7,"linkPrecedence":"primary","linkedId":null,"phoneNumber":"11111111111","updatedAt":"2025-01-07T08:46:44.951Z"}],"timestamp":"2025-01-07T08:48:45.512Z"}
+{"emailCount":0,"level":"debug","message":"Contact reconciliation complete","phoneCount":1,"primaryId":7,"secondaryCount":0,"timestamp":"2025-01-07T08:48:45.513Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":7,"secondaryCount":0,"timestamp":"2025-01-07T08:48:45.513Z"}
+{"level":"info","message":"✅ Database connection established","timestamp":"2025-01-07T08:51:06.460Z"}
+{"level":"info","message":"✅ Express initialized","timestamp":"2025-01-07T08:51:06.464Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-01-07T08:51:06.465Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:51:30.360Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:51:30.426Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"9876543210","timestamp":"2025-01-07T08:51:43.984Z"}
+{"level":"error","message":"Unhandled error: Reduce of empty array with no initial value","stack":"TypeError: Reduce of empty array with no initial value\n    at Array.reduce (<anonymous>)\n    at /Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:37:51\n    at Proxy._transactionWithCallback (/Users/vastav/Downloads/identity-system/node_modules/@prisma/client/runtime/library.js:130:7989)\n    at async ContactService.processIdentity (/Users/vastav/Downloads/identity-system/dist/api/contact/contact-service.js:35:16)\n    at async /Users/vastav/Downloads/identity-system/dist/api/contact/contact-controller.js:17:28","timestamp":"2025-01-07T08:51:43.988Z"}
+{"email":"anotheruser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:51:58.964Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:51:58.966Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1111111111","timestamp":"2025-01-07T08:52:05.473Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":5,"secondaryCount":1,"timestamp":"2025-01-07T08:52:05.475Z"}
+{"email":"newuser@example.com","level":"info","message":"Processing identify request","phoneNumber":"1234567890","timestamp":"2025-01-07T08:52:15.045Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":8,"secondaryCount":3,"timestamp":"2025-01-07T08:52:15.047Z"}
+{"email":"partialuser@example.com","level":"info","message":"Processing identify request","timestamp":"2025-01-07T08:52:50.487Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":9,"secondaryCount":0,"timestamp":"2025-01-07T08:52:50.495Z"}
+{"level":"info","message":"Processing identify request","phoneNumber":"3333333333","timestamp":"2025-01-07T08:53:03.475Z"}
+{"level":"info","message":"Identity processed successfully","primaryId":10,"secondaryCount":0,"timestamp":"2025-01-07T08:53:03.478Z"}

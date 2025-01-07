@@ -1,0 +1,30 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL") // Database connection string
+}
+
+model Contact {
+  id               Int              @id @default(autoincrement())
+  email            String?          // Nullable email
+  phoneNumber      String?          // Nullable phone number
+  linkedId         Int?             // Foreign key for linked contact
+  linkPrecedence   LinkPrecedence   @default(primary) // Default to "primary"
+  createdAt        DateTime         @default(now())   // Automatically set timestamp for creation
+  updatedAt        DateTime         @updatedAt        // Automatically update timestamp on modification
+  deletedAt        DateTime?        // Nullable field for soft deletes
+
+  linkedContact    Contact?         @relation("ContactLink", fields: [linkedId], references: [id]) // Self-relation for linked contact
+  secondaryContacts Contact[]       @relation("ContactLink") // Reverse relation for secondary contacts
+
+  @@index([linkedId]) // Index for optimized queries on linkedId
+  @@unique([email, phoneNumber]) // Ensure unique combination of email and phoneNumber
+}
+
+enum LinkPrecedence {
+  primary   // Main contact
+  secondary // Linked contact
+}

@@ -1,0 +1,27 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    depends_on:
+      - db
+
+  db:
+    image: postgres:15
+    container_name: prisma_postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: vastav
+      POSTGRES_PASSWORD: vastav
+      POSTGRES_DB: identity_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
