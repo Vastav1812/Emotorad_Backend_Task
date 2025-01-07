@@ -146,7 +146,7 @@ Expected Response:
 {
 "primaryContactId": 1,
 "emails": ["newuser@example.com"],
-"phoneNumbers": ["1234567890"
+"phoneNumbers": ["1234567890","9876543210"],
 ,
 "secondaryContactIds": [2]
 "9876543210"],
@@ -171,13 +171,10 @@ Expected Response:
 
 {
 "primaryContactId": 1,
-"emails": ["newuser@example.com"
+"emails": ["newuser@example.com","anotheruser@example.com"],
 "phoneNumbers": ["1234567890"
-,
+,"9876543210"],
 "secondaryContactIds": [2, 3]
-,
-"anotheruser@example.com"],
-"9876543210"],
 }
 ```
 
@@ -200,15 +197,11 @@ Expected Response:
 
 {
 "primaryContactId": 1,
-"emails": ["newuser@example.com"
-"phoneNumbers": ["1234567890"
-,
-"secondaryContactIds": [2, 3, 4]
-,
+"emails": ["newuser@example.com",
 "anotheruser@example.com"],
-"9876543210"
-,
-"1111111111"],
+"phoneNumbers": ["1234567890"
+,"9876543210","1111111111"],
+"secondaryContactIds": [2, 3, 4]
 }
 ```
 
